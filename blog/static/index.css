@@ -1,0 +1,10 @@
+body {
+    background-color: darkgrey;
+}
+footer {
+    background-color: grey; width: 1200;
+}
+box {
+  display: flex;
+  margin: -6px -6px;
+}
